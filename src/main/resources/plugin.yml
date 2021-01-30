@@ -3,6 +3,6 @@ author: Jipok
 description: "Enables teleportation between Beacons by players"
 website: https://github.com/Jipok
 
-version: 1.0
+version: 2.0
 api-version: 1.15
 main: Jipok.BeaconPortals.main
