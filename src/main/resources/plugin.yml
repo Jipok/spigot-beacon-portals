@@ -1,8 +1,8 @@
 name: BeaconPortals
 author: Jipok
-description: "Enables teleportation between Beacons by players"
-website: https://github.com/Jipok
+description: "Allow teleportation between Beacons"
+website: https://github.com/Jipok/spigot-beacon-portals
 
-version: 2.0
+version: 3.0
 api-version: 1.15
 main: Jipok.BeaconPortals.main
